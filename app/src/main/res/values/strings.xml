@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello World</string>
-</resources>
+    <string name="show">SHOW</string>
+    <string name="hide">HIDE</string>
+</resources> 
